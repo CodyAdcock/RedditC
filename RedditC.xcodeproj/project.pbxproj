@@ -58,6 +58,18 @@
 		C3FEC19E2149721E005B9644 /* RedditC */ = {
 			isa = PBXGroup;
 			children = (
+				C3FEC1BB21497270005B9644 /* ViewController */,
+				C3FEC1BA2149726F005B9644 /* View */,
+				C3FEC1B92149726D005B9644 /* Model Controller */,
+				C3FEC1B62149723A005B9644 /* Model */,
+				C3FEC1B52149722F005B9644 /* Resources */,
+			);
+			path = RedditC;
+			sourceTree = "<group>";
+		};
+		C3FEC1B52149722F005B9644 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
 				C3FEC19F2149721E005B9644 /* AppDelegate.h */,
 				C3FEC1A02149721E005B9644 /* AppDelegate.m */,
 				C3FEC1A22149721E005B9644 /* ViewController.h */,
@@ -68,7 +80,35 @@
 				C3FEC1AD21497222005B9644 /* Info.plist */,
 				C3FEC1AE21497222005B9644 /* main.m */,
 			);
-			path = RedditC;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C3FEC1B62149723A005B9644 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		C3FEC1B92149726D005B9644 /* Model Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Model Controller";
+			sourceTree = "<group>";
+		};
+		C3FEC1BA2149726F005B9644 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C3FEC1BB21497270005B9644 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
